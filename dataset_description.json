@@ -3,6 +3,9 @@
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
-        "Liberty S. Hamilton, PhD", "Maansi Desai, PhD"
-    ]
+        "Liberty S. Hamilton",
+        "Maansi Desai",
+        "Alyssa Field"
+    ],
+    "License": "CC0"
 }
