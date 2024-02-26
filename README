@@ -1,14 +1,15 @@
 WIRED ICM TUTORIAL DATA
 ------------------------
 
-Contributors: Liberty S. Hamilton, PhD, Maansi Desai, PhD, Alyssa Field, MEd
-Email: liberty.hamilton@austin.utexas.edu
+*Contributors:* Liberty S. Hamilton, PhD, Maansi Desai, PhD, Alyssa Field, MEd
+
+*Email:* liberty.hamilton@austin.utexas.edu
 
 This is a sample BIDS dataset for the WIRED ICM course in Paris, France in March 2024.
 
 This contains intracranial recordings collected by the Hamilton Lab at the University of Texas at Austin. These recordings include examples of evoked data during natural listening tasks along with some examples of seizure-related activity and vagal nerve stimulator (VNS) artifact for illustrative purposes. All procedures were approved by the University of Texas at Austin Institutional Review Board. 
 
-Funding: Support was provided by the National Institutes of Health National Institute on Deafness and Other Communication Disorders (R01 DC018579, to LSH).
+*Funding:* Support was provided by the National Institutes of Health National Institute on Deafness and Other Communication Disorders (R01 DC018579, to LSH).
 
 Tasks:
 -------
