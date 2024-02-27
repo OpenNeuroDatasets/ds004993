@@ -1,6 +1,0 @@
-{
-    "iEEGCoordinateSystem": "ACPC",
-    "iEEGCoordinateUnits": "mm",
-    "iEEGCoordinateProcessingReference": "PMID: 29163118",
-    "IntendedFor": "/sub-W1/ses-mri/anat/sub-W1_ses-mri_acq-B3_T1w.nii.gz"
-}
