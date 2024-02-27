@@ -3,9 +3,9 @@
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
-        "Liberty S. Hamilton",
         "Maansi Desai",
-        "Alyssa Field"
+        "Alyssa Field",
+        "Liberty S. Hamilton"
     ],
     "License": "CC0",
     "DatasetDOI": "doi:10.18112/openneuro.ds004993.v1.1.0",
