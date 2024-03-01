@@ -1,4 +1,4 @@
-name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description
+name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status
 RAST1	SEEG	V	0.0	256.0	Right-Amygdala	512.0	good
 RAST2	SEEG	V	0.0	256.0	Right-Amygdala	512.0	good
 RAST3	SEEG	V	0.0	256.0	Right-Amygdala	512.0	good
